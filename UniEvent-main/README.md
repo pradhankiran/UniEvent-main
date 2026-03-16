@@ -1,6 +1,6 @@
 # UniEvent
 
-(deployed):  https://unievent-117.web.app/
+(deployed): https://unievent-117.web.app/
 
 Manage campus events, clubs, and participation in one platform.
 
