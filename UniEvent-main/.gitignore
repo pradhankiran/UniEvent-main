@@ -1,0 +1,49 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+firebase-debug.log
+firebase-debug.*
+
+# Dependencies
+node_modules/
+
+# Environment configurations
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build directories
+dist/
+dist-ssr/
+build/
+.output/
+.vercel/
+.netlify/
+
+# Firebase
+.firebase/
+firebase.json
+database.rules.json
+storage.rules
+frontend/src/services/firebase.js
+
+# Scripts and sensitive files
+fix_admin.js
+admin.js
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
